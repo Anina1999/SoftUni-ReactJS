@@ -15,3 +15,7 @@
     - [x] Add index.html header links and scripts
     - [x] Extract components
     - [x] Compose components into App.jsx
+    - [x] Extract Service card as reusable component
+    - [x] Extract Project item as reusable component
+    - [x] Extract projects props into array
+    - [x] Render each project item inside jsx with map technique
