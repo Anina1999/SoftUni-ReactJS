@@ -13,3 +13,5 @@
     - [x] Fix inline styles
     - [x] Rename lowercase attribute names to camelCase props
     - [x] Add index.html header links and scripts
+    - [x] Extract components
+    - [x] Compose components into App.jsx
